@@ -11,6 +11,9 @@
     "gatsby"
   ],
   "license": "MIT",
+  "resolutions": {
+    "postcss": "8.2.13"
+  },
   "browserslist": "> 0.25%, not dead",
   "scripts": {
     "build": "gatsby build",
