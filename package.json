@@ -1,11 +1,11 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "ally-stauffer-portfolio",
+  "description": "Ally Stauffer's software engineering portfolio",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Ally Stauffer",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/allysonstauffer/sweportfolio"
   },
   "keywords": [
     "gatsby"
